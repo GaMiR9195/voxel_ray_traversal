@@ -47,11 +47,3 @@ coord += ustep * mask;
 t += delta * mask;
 ```
 On paper, this avoids conditionals, but in practice it didn't help. On my GPU, it actually ran about 5% slower compared to the branching version. Of course, that result may vary depending on hardware, so it's worth experimenting with if you're curious.
-
-## Contributing
-
-This repository is primarily an educational reference to accompany the video. No new features are planned, and additional commits will only happen if critical bugs or mistakes are found. 
-
-- **Issues**: Bug reports are welcome.  
-- **Pull requests**: Only considered for critical bug fixes.  
-- **Feature requests**: Not in scope for this project.
