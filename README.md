@@ -1,5 +1,5 @@
 # Voxel Ray Traversal
-Welcome to the official repository for this YouTube video:
+Welcome to the unofficial repository for this YouTube video:
 
 [![Watch the video](https://img.youtube.com/vi/ztkh1r1ioZo/maxresdefault.jpg)](https://youtu.be/ztkh1r1ioZo)
 
